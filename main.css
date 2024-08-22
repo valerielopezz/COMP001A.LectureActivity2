@@ -9,5 +9,8 @@
 .comment { background-color: blue; /* "blu" is not a valid color value. it should be "blue". */ }
 
 body {
-    background-color: green;
-}
+    background-color :blue; /* "blu" is not a valid color value. it should be "blue". */ }
+
+    body {
+        background-color:green;
+    }
